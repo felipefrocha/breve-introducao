@@ -4,7 +4,7 @@
 Nivelar o conhecimento em diversas ferramentas e indicar material de leitura para diversos temas.
 
 ## Temas
-### 1. Docker
+### 1. [Docker](https://slides.com/felipefrocha/intro-docker)
 #### 1.1 Instalação
 ```bash
 # Processo como root (not recommended)
