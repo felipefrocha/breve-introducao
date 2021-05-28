@@ -15,9 +15,10 @@ curl -L https://raw.githubusercontent.com/docker/compose-cli/main/scripts/instal
 ```
 #### 1.2 Links
 - [Docker e VS Code](https://code.visualstudio.com/docs/remote/containers-tutorial)
-- [Arquitetura de containers]()
-- [Segurança de contaienrs]()
 - [Containers RedHat](https://redhatgov.io/workshops/containers_101/)
+- [Arquitetura de containers](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
+- [Segurança de contaienrs](https://www.openshift.com/blog/hardening-docker-containers-images-and-host-security-toolkit)
+
 
 #### 1.3 Comunicação Segura
 - TLS:
